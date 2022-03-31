@@ -1,5 +1,14 @@
-body {
-	background: #333333;
-	color: #ffffff;
-	font-family: arial,verdana;
+.title {
+	font-size: 100px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+button {
+	border-radius: 8px;
+	padding: 7px;
+	border-color: #ffffff;
 }
